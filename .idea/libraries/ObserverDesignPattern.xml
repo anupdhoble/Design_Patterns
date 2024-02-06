@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ObserverDesignPattern">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Observer/ObserverDesignPattern.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
